@@ -1,1 +1,1 @@
-dino run, Rock-paper-scissors, Trees
+dino-run, Rock-paper-scissors, Trees
